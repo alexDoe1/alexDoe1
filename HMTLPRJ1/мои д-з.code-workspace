@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../мои д-з"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "проект учителя"
+	}
+}
